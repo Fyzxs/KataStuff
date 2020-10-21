@@ -7,7 +7,7 @@ namespace RenameFizzBuzz
     // ONLY use Resharper refactoring (CTRL+R, R)
 
     [TestClass]
-    public class UnitTest1//Rename to InlineKataTests
+    public class UnitTest1//Rename to RenameKataTests
     {
         private const int A = 1 * 2;//Rename to Modifier
         private const int B = 3 - A;//Rename to FizzValue
